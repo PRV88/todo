@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "todo08d46438": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
